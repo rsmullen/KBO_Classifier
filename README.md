@@ -1,7 +1,7 @@
 # KBO_Classifier
 ###  Companion code and data for Smullen &amp; Volk (2020)
 
-This repository contains data and code to train and run the Kuiper Belt object (KBO) classification algorithm presented in Smullen & Volk (2020).  If you use any data, code, or products from this repository, please cite our paper.  Any mistakes in this repository are unintentional.
+This repository contains data and code to train and run the Kuiper Belt object (KBO) classification algorithm presented in Smullen & Volk (2020).  If you use any data, code, or products from this repository, please cite our paper: [MNRAS](https://doi.org/10.1093/mnras/staa1935) or [arXiv](https://arxiv.org/abs/2007.03720).  Any mistakes in this repository are unintentional.
 
 **KBO Classifcation.ipynb** contains the trained classifier.  We also created three interfaces so users can apply our classifier to their own KBOs: 
 - `compute_from_file()` computes features from a pre-existing file,
